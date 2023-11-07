@@ -1,5 +1,4 @@
 # THE-LABYRINTH
-A Horror game created with the Pygame library
 Welcome to the Labyrinth, an interactive horror experience built with the pygame engine. To get started with the game, I have provided documentation for the program to allow you to understand how this program works, and how to run it.
 
 I have provided two sets of files to you. One set contains the full version of the game, packaged into a nice neat .exe file. This file is available to be run at any time, feel free to just download this and play the game. Keep in mind that you will likely need to keep the file where the game is located - it is important for your game experience to keep it open at all times.
